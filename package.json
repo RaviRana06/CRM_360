@@ -1,0 +1,8 @@
+{
+  "name": "crm360",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "node run-dev.js"
+  }
+}

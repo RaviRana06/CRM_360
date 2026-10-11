@@ -1,0 +1,11 @@
+node_modules
+.venv
+venv
+venu
+__pycache__
+*.pyc
+.git
+.gitignore
+uploads
+dist
+build
